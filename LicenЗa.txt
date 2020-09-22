@@ -1,0 +1,24 @@
+Leia com atenção as seguintes condições deste Termo de Licença de Uso e Garantia. O início de utilização do PROGRAMA implica a ciência e aceitação do presente Termo.
+
+Este Software, a informação contida nele, assim como a sua documentação é distribuida "como está" sem garantias explícitas ou implícitas de nenhum tipo.
+
+Em nenhum caso o AUTOR poderá ser processado legalmente por qualquer dano ou problema ocorrido incluindo prejuizos diretos, indiretos ou mesmo perda de informacoes em decorrencia do uso do SOFTWARE, mesmo que o AUTOR tenha sido avisado da possibilidade de tais danos.
+
+Todo o risco relacionado com a performance do sofware bem como da sua qualidade é assumido pelo usuário.
+
+É proibido alterar este software de qualquer forma, incluindo mudanças ou remoções de quaisquer mensagens ou janelas.
+
+É proibido realizar a engenharia reversa (descompilação) deste SOFTWARE.
+
+É proibido adicionar qualquer outra informação de copyright (direitos Autorais) àquelas listadas nesta licença, na documentação e no SOFTWARE.
+
+Este software pode ser distribuído gratuitamente em serviços online, BBS, ou quaisquer outras mídias eletrônicas, desde que todos os arquivos sejam incluídos na distribuição. Este software não pode ser distribuído em CD-ROM, disquete ou outra mídia física não gratuita sem a permissão do AUTOR.
+
+Todos os direitos são reservados ao AUTOR.
+
+Se você não concorda com os termos desta licença você deve remover o SOFTWARE dos seus dispositivos de armazenamento (discos rígidos e disketes) e não utilizar mais o SOFTWARE.
+
+Contato com o Autor:
+			Dante Milano Souto
+			dantemilanosouto@yahoo.com.br
+			http://geocities.yahoo.com.br/dantemilanosouto/
